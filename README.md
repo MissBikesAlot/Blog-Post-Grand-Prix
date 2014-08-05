@@ -20,8 +20,8 @@ Blog Post Grand Prix
 
 ####RULES
 * Meet the Team,  and Engineering Lunches count as blog posts. Vimeo views ALSO count   
-* If you write one blog post and Marketing separates it into a series, that counts as the series, not the single blog post  
-* If number of blog posts is tied for the month, then the tie is broken by what was the most popular  
+* If you write one blog post and Marketing separates it into a series, you get credit for the number of blog posts the series separates into. For example, you write a long post and Marketing separates it into 3 different blog posts, you will get credit for 3 blog posts. 
+* If number of blog posts is tied for the month, then the tie is broken by the total amount of website impressions for all posts you wrote within that month. 
 * If you blog post is written/completed but not published just yet, your blog post will still count towards the month that it was originally written for contributions BUT will count towards the following month for Most Popular Competition  
 
 ####BLOG SPECIFIC EVENTS
@@ -31,5 +31,5 @@ Blog Post Grand Prix
 
 ####REMINDERS ABOUT PUBLISHING AND SUBMITTING BLOG POSTS
 * Once a post is written, keep it as a draft and Slack or email marketing@quickleft.com to let us know  
-* Struggling to find topics? Let us know and we can give you a brain dump of search terms, target markets, examples of posts, and more!  
-
+* Struggling to find topics? Let us know and we can give you a brain dump via Sprintly in the _Quick Left Blog Board_ of search terms, target markets, examples of posts, and more!  
+* Join the Sprintly project _Quick Left Blog Board_ to see ideas that we want to move forward and that you can pick up at any time to work on! https://sprint.ly/product/22310
